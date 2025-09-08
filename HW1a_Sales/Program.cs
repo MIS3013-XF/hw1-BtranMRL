@@ -1,7 +1,7 @@
 ﻿// HW1a Sales Total
 
-// Your Name:
-// Did you seek help ? If yes, specify the helper or web link here: 
+// Your Name: Brandon Tran
+// Did you seek help ? If yes, specify the helper or web link here: Dr. Xuan Feng
 
 using System;
 using System.Collections.Generic;
@@ -15,6 +15,8 @@ namespace HW1a_Sales
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
+
         }
     }
 }
